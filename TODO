@@ -1,0 +1,13 @@
+This project should be a TODO list CLI application. Users should have the ability to:
+
+- Add an item to a todo list
+- Store multiple todo lists (to categorise)
+- Prioritise items
+- Display lists
+- Remove items
+- Save lists to file (path should be given when first run)
+- Assume todo list is localized to current user on 1 machine (for now)
+
+Features:
+- CLAP parser (run with list, add, delete by ID, update)
+- GUI? (Would allow adding/updating/deleting more fluid)
